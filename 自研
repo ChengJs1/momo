@@ -3,7 +3,7 @@
     {
       "key": "玩偶",
       "name": "玩偶",
-      "type": 2,
+      "type": 3,
       "api": "csp_WoGG",
       "playUrl": "https://www.wogg.net/",
       "searchable": 1,
@@ -13,7 +13,7 @@
     {
       "key": "zxzj",
       "name": "在线秒播",
-      "type": 2,
+      "type": 3,
       "api": "csp_Zxzj",
       "playUrl": "https://www.zxzjhd.com/",
       "searchable": 1,
