@@ -1,0 +1,53 @@
+{
+  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;你的MD5值（可选，先不填也行）",
+  "wallpaper": "https://api.ixiaowai.cn/api/api.php",
+  "sites": [
+    {
+      "key": "feimao",
+      "name": "肥猫",
+      "type": 3,
+      "api": "csp_FeiMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "nanfeng",
+      "name": "南风4K",
+      "type": 3,
+      "api": "csp_NanFeng",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ysc",
+      "name": "运输车",
+      "type": 3,
+      "api": "csp_YunShuChe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kunyu77",
+      "name": "七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "nangua",
+      "name": "南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [],
+  "parse": []
+}
